@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1758b7c1c84a340878a9464865d7a296, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  GridSize: {x: 3, y: 4}
+  Tiles:
+  - {fileID: 11400000, guid: f6cc093609f4e4f82b7eebe8d3c164ac, type: 2}
+  - {fileID: 11400000, guid: 48fc8f1d247f44df7b2b0cd9b2d5f286, type: 2}
+  - {fileID: 11400000, guid: c75cf8fa1f54e4a80a1ea79a91f1da9e, type: 2}
+  Tilemap: "WW \nWWG\nGGG\nGG "
+  TileCount: 9
+  PlayerSpawn: {x: 2, y: 1}
+  ExitPortal: {x: 1, y: 1}

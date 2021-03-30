@@ -1,0 +1,21 @@
+.DS_Store
+/Artwork/
+/Falling Tiles/Library/
+/Falling Tiles/Logs/
+/Falling Tiles/obj/
+/Falling Tiles/Packages/
+/Falling Tiles/ProjectSettings/
+/Falling Tiles/Temp/
+/Falling Tiles/UserSettings/
+/Falling Tiles/Core/
+/Falling Tiles/Assembly-CSharp-firstpass.csproj
+/Falling Tiles/Assembly-CSharp.csproj
+/Falling Tiles/Assembly-CSharp-Editor.csproj
+/Falling Tiles/Falling Tiles.sln
+/Falling Tiles/packages.config
+/Falling Tiles/.vs/
+/Falling Tiles/.vsconfig
+/Falling Tiles/Assets/Plugins/
+/Falling Tiles/Assets/Resources/
+/Falling Tiles/Assets/TextMesh Pro/
+/falling-tiles-website/node_modules/

@@ -1,0 +1,109 @@
+{
+    "name": "LevelEditorInput",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "59cba541-b82f-4009-a8d0-582f4c1b41e1",
+            "actions": [
+                {
+                    "name": "Space",
+                    "type": "Button",
+                    "id": "f750622b-e8a0-4b23-aaec-ceb4888c78f5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Move Left",
+                    "type": "Button",
+                    "id": "11cb16c9-c9b4-4168-b23d-324ba4debd0e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Move Right",
+                    "type": "Button",
+                    "id": "c6bcf513-27ba-42ed-9a7e-1a8b485d6dda",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Move Down",
+                    "type": "Button",
+                    "id": "36a5c22e-97c5-46ae-b069-2c42647b1f41",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Move Up",
+                    "type": "Button",
+                    "id": "4da24588-3ad7-4115-8270-2371d270c2b4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "0732d511-53f1-43c6-950e-6cceb718e3ae",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Space",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2724e9ae-8e81-4cad-b513-714f4f0853da",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dc662773-9d02-4e94-918a-49b88d01d32b",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "59fe4e21-1cd9-42fd-9f3c-8ee39f860e6e",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "602176a5-0c72-445a-aaaa-b70538a7a6ac",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
